@@ -1,0 +1,74 @@
+/* css general */
+body{
+    background-color: beige;
+}
+h1{
+    color: tomato;
+    text-align: center;
+    padding-top: 20px;
+    border: 8px;
+}
+p{
+    text-align: justify;
+    width: 660px;
+    padding-left: 335px;
+    padding-top: -50px;
+}
+h2 {
+    color: tomato;
+    padding-left: 350px;
+    padding-top: 50px;
+}
+ul {
+    padding-left: 400px;
+}
+
+/* ada lovelace */
+.img{
+    text-align: center;
+    padding-top: 20px;
+}
+.img-uno{
+    text-align: center;
+    padding: 5px;
+}
+hr {
+    background-color: black;
+    height: 2px;
+    width: 50%;
+}
+
+/* intenet */
+ol{
+    padding-left: 400px;
+}
+.internet {
+    text-align: justify;
+    padding-right: 350px;
+}
+
+/* pelicula */
+.pelicula{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+    border-color: black;
+}
+/* boton ada lovelace e internet */
+.boton {
+    border-radius: 10px;
+    background-color: thistle;
+    padding: 5px;
+    position: relative;
+    left: 650px;
+    top: 30px;
+}
+/* boton pelicula */
+.botum {
+    border-radius: 10px;
+    background-color: thistle;
+    padding:5px;
+    position: relative;
+    left: 1015px;
+    top: 10px;
+}
